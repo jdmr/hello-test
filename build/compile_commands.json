@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -o CMakeFiles/hello.dir/hello.cpp.o -c /home/jdmr/Documents/oop/hello-test/hello.cpp",
+  "file": "/home/jdmr/Documents/oop/hello-test/hello.cpp"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -I/home/jdmr/Documents/oop/hello-test/googletest/googlemock/include -I/home/jdmr/Documents/oop/hello-test/googletest/googlemock -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest/include -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++20 -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/jdmr/Documents/oop/hello-test/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/jdmr/Documents/oop/hello-test/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -isystem /home/jdmr/Documents/oop/hello-test/googletest/googlemock/include -isystem /home/jdmr/Documents/oop/hello-test/googletest/googlemock -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest/include -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++20 -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/jdmr/Documents/oop/hello-test/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/jdmr/Documents/oop/hello-test/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -I/home/jdmr/Documents/oop/hello-test/googletest/googletest/include -I/home/jdmr/Documents/oop/hello-test/googletest/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++20 -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/jdmr/Documents/oop/hello-test/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/jdmr/Documents/oop/hello-test/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest/include -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest -g -Wall -Wshadow -Wconversion -Wundef -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Winline -Wredundant-decls -Wchar-subscripts -std=c++20 -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/jdmr/Documents/oop/hello-test/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/jdmr/Documents/oop/hello-test/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest/include -isystem /home/jdmr/Documents/oop/hello-test/googletest/googletest -g -std=gnu++20 -o tests/CMakeFiles/hello_test.dir/hello_test.cpp.o -c /home/jdmr/Documents/oop/hello-test/tests/hello_test.cpp",
+  "file": "/home/jdmr/Documents/oop/hello-test/tests/hello_test.cpp"
+},
+{
+  "directory": "/home/jdmr/Documents/oop/hello-test/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -o app/CMakeFiles/hello_app.dir/app.cpp.o -c /home/jdmr/Documents/oop/hello-test/app/app.cpp",
+  "file": "/home/jdmr/Documents/oop/hello-test/app/app.cpp"
+}
+]
